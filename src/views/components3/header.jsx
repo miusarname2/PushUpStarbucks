@@ -3,17 +3,17 @@ import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Inicio', href: '#' },
-  { name: 'Menu', href: '#' },
-  { name: 'Novedades...', href: '#' },
-  { name: 'Contacto', href: '#' },
+  { name: 'Inicio', href: '/' },
+  { name: 'Menu', href: 'https://www.starbucks.com.co/menu' },
+  { name: 'Novedades...', href: 'https://www.starbucks.com.co/seccion/novedades' },
+  { name: 'Contacto', href: 'https://www.starbucks.com.co/stores' },
 ]
 
 export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <div className="bg-white">
+    <div className="bg-rose-100">
       <header className="absolute inset-x-0 top-0 z-50">
         <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
           <div className="flex lg:flex-1">

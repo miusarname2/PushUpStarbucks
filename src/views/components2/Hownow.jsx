@@ -58,17 +58,17 @@ export default function Example() {
       <div id="exampleWrapper" class="flex justify-center bg-teal-100">
         <div class="inline-flex rounded-md shadow-sm" role="group">
           <a href="/opc2">
-          <button type="button" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-l-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-blue-500 dark:focus:text-white">
+          <button type="button" class="px-4 py-2 text-sm font-medium text-gray-900 bg-teal-100 border border-teal-900 rounded-l-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-blue-500 dark:focus:text-white">
             <img src="https://raw.githubusercontent.com/CampusLands/starbucksNodeJS/main/img/thumb1.png" alt="" />
           </button>
           </a>
           <a href="/">
-          <button type="button" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border-t border-b border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-blue-500 dark:focus:text-white">
+          <button type="button" class="px-4 py-2 text-sm font-medium text-gray-900 bg-teal-100 border-t border-b border-teal-900 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-blue-500 dark:focus:text-white">
             <img src="https://github.com/CampusLands/starbucksNodeJS/blob/main/img/thumb2.png?raw=true" alt="" />
           </button>
           </a>
           <a href="/opc3">
-          <button type="button" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-r-md hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-blue-500 dark:focus:text-white">
+          <button type="button" class="px-4 py-2 text-sm font-medium text-gray-900 bg-teal-100 border border-teal-900 rounded-r-md hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-blue-500 dark:focus:text-white">
             <img src="https://github.com/CampusLands/starbucksNodeJS/blob/main/img/thumb3.png?raw=true" alt="" />
           </button>
           </a>

@@ -3,10 +3,10 @@ import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Inicio', href: '#' },
-  { name: 'Menu', href: '#' },
-  { name: 'Novedades...', href: '#' },
-  { name: 'Contacto', href: '#' },
+  { name: 'Inicio', href: '/' },
+  { name: 'Menu', href: 'https://www.starbucks.com.co/menu' },
+  { name: 'Novedades...', href: 'https://www.starbucks.com.co/seccion/novedades' },
+  { name: 'Contacto', href: 'https://www.starbucks.com.co/stores' },
 ]
 
 export default function Example() {
